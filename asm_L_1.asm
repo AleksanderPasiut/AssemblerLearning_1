@@ -10,7 +10,7 @@ org 100h
 start:
 
 switch_on:
-mov P0, #0x1
+mov P0, #0x1 ;-------------------- A parameter
 jmp init_delay_0
 
 switch_off:
