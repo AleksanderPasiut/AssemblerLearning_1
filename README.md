@@ -9,3 +9,7 @@ Program implements diode blinking. Diode has to be attached to specified bit of 
 Program 2
 
 Program implements switching on and off diodes attached to all 8 bits of first port (P0). Diodes are being turned on and off one after another. Each diode is active exactly 0.5 second (provided that clock signal is 12 MHz).
+
+Program 3
+
+Upgraded version of program 1. Program features delay in separate subprogram and interruptions enabling and handling.
