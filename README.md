@@ -13,3 +13,7 @@ Program implements switching on and off diodes attached to all 8 bits of first p
 Program 3
 
 Upgraded version of program 1. Program features delay in separate subprogram and interruptions enabling and handling.
+
+Program 4
+
+Upgraded version of program 1. Program uses timers in order to create delay.
