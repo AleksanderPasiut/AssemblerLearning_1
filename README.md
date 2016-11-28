@@ -20,4 +20,4 @@ Upgraded version of program 1. Program uses timers in order to create delay.
 
 Program 5
 
-Program displays values from registers R0 - R3 on four 8-segment LCDs. In order to do so, values have to be converted using "tab" array and multiplexed. Port P0 determines which segments are active (inversed logic), while port P1 (bits 0 - 3) determine which LCD is active (regular logic).
+Program displays values from registers R0 - R3 on four 8-segment LCDs. In order to do so, values have to be converted using "tab" array and multiplexed. Port P0 determines which segments are active (inversed logic), while port P1 (bits 0 - 3) determine which LCD is active (regular logic). Program uses timers in order to create appropriate frequency of LCDs' refreshing.
